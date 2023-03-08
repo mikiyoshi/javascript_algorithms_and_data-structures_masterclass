@@ -1,0 +1,12 @@
+/*
+PREREQUISITES
+Prerequisites For This Section
+
+It is strongly recommended you first complete the following sections before working through this section:
+
+    Section 1: BIG O NOTATION
+
+While not "mandatory", it will definitely help you out to first work through the following additional sections:
+
+    Section 10: BUBBLE SORT
+*/
